@@ -1,1 +1,2 @@
 alibabacloud_cdn20180510==1.0.3
+alibabacloud-tea==0.3.6
